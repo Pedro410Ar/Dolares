@@ -1,0 +1,34 @@
+body{
+    font-family: 'Fredoka', sans-serif;
+    background: linear-gradient(rgb(223, 223, 121), rgb(120, 173, 120), rgb(221, 221, 55) );
+}
+
+header{        
+        width: 400px;
+        height: 200px;
+        padding: 90px 500px 90px 500px;     
+}
+
+main{
+    width: 900px;
+    height: 400px;
+    text-align: center;
+    margin-top: 40px;
+    margin-left: 300px;
+}
+
+#total{
+    width:250px;
+    height:50px; 
+    font-size: 20px;
+    text-align: center;
+   
+    
+}
+
+footer{
+    width: auto;
+    height: 150px;
+    text-align: center;
+    font-size: 18px;
+}
